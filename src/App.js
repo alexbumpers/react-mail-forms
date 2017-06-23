@@ -40,7 +40,7 @@ class App extends React.Component {
             {...bodySize}
             label="     " color="white"
           >
-          <Input placeholder="Your mesage here..." type="textarea" rows={8} id="success" />
+          <Input placeholder="Your message here..." type="textarea" rows={8} id="success" />
           <br/>
           </FormItem>
           <div className="EmailButton"><Button type="primary"> Send </Button></div>
