@@ -1,7 +1,32 @@
+body, html, #root {
+    background-image: url("AWHD.jpg");
+    overflow-y: hidden ! important;
+       overflow-x: hidden ! important;
+       background-color: #f8f8f8;
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+}
+h1 {
+    font-family: "Arial", Arial, sans-serif;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
 .App {
+  position: absolute;
+  width: 300px;
+  height: 200px;
+  z-index: 15;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -150px;
   text-align: center;
+
 }
 
+.EmailButton {
+    margin: -0px -65px 0 0px;
+}
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
