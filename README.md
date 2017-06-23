@@ -1,5 +1,5 @@
 # react-mail-forms | about
-react-mail-forms is simple, elegant, ready-made tool for implementing email/contact forms on React sites using Nodemailer. No need for a heavy email service: just simply plug in your email information, and the input from the form will be sent to the email that you give.
+react-mail-forms is a simple, elegant, ready-made tool for implementing email/contact forms on React sites using Nodemailer. No need for a heavy email service: just simply plug in your email information, and the input from the form will be sent to the email that you give.
 
 Currently in its infancy, react-email-forms currently serves as a simple boilerplate contact form, with email functionality coming soon.
 
