@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "antd": "^2.11.1",
+    "nodemailer": "^4.0.1",
+    "dns" : "file:./src/mock/dns",
+    "child_process" : "file:./src/mock/child_process",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
