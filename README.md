@@ -16,7 +16,7 @@ This is what the base boilerplate rendering looks like for react-mail-forms on a
 live site/localhost:
 
 ![react-mail-forms live demo]
-(http://i.imgur.com/OFPNNYT.jpg)
+(react_demo.png)
 
 Simply run `npm start` to view the demo site, and feel free to use this
 as a boilerplate/template.
