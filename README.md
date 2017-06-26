@@ -13,7 +13,10 @@ Simply fork and clone the repo and get started with the boilerplate in `App.js`.
 ## react-mail-forms | demo
 
 This is what the base boilerplate rendering looks like for react-mail-forms on a
-live site/localhost: http://imgur.com/OFPNNYT
+live site/localhost:
+
+![react-mail-forms live demo]
+(http://imgur.com/OFPNNYT)
 
 Simply run `npm start` to view the demo site, and feel free to use this
 as a boilerplate/template.
